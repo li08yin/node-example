@@ -1,6 +1,3 @@
-/**
- * Created by lyin08 on 5/20/16.
- */
 var argv = require('yargs')
     .usage('Usage: node $0 --l=[num] --b=[num]')
     .demand(['l','b'])

@@ -1,6 +1,3 @@
-/**
- * Created by lyin08 on 5/20/16.
- */
 var rect = require('./rectangle-1');
 
 function solveRect(l,b) {

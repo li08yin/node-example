@@ -1,6 +1,3 @@
-/**
- * Created by lyin08 on 5/20/16.
- */
 module.exports = function(x,y,callback) {
     try {
         if (x < 0 || y < 0) {
